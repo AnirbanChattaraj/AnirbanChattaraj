@@ -1,5 +1,4 @@
 <h1 align="center">
-
   <br>
   <span style="background: linear-gradient(90deg, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;">
     Hi there, I'm Anirban 👋
@@ -23,7 +22,7 @@
 ---
 
 ## 🚀 Languages and Tools
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -43,23 +42,37 @@
 ---
 
 ## 📊 GitHub Stats
-![Anirban's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnirbanChattaraj&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnirbanChattaraj&layout=compact&theme=tokyonight)
-
----
-
-## 🔗 Connect with me
-<p>
-  <a href="https://twitter.com/AnirbanChattaraj"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://github.com/AnirbanChattaraj"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<p align="center">
+  <!-- Aggregate stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AnirbanChattaraj&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnirbanChattaraj&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🏆 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/AnirbanChattaraj/count.svg)
+## 🌟 GitHub Total Stars
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnirbanChattaraj&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&custom_title=Total%20Stars&card_width=250"/>
+</p>
 
 ---
 
-## ⚡ <span style="background: linear-gradient(90deg, #ff6ec4, #7873f5, #44f2e5); -webkit-background-clip: text; color: transparent;">Fun Fact</span>
+## 🏆 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AnirbanChattaraj&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+---
+
+## 🔗 Connect with me
+<p align="center">
+  <a href="https://twitter.com/AnirbanChattaraj"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://github.com/AnirbanChattaraj"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/AnirbanChattaraj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+<p align="center">
 I love reading books 📚, exploring geopolitics 🌍, philosophy 🧠, psychology 🧩, and solving problems while learning new technologies every day! 🚀
+</p>

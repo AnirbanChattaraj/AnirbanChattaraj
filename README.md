@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://avatars.githubusercontent.com/AnirbanChattaraj" width="150" style="border-radius:50%; border: 5px solid; border-image: linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet) 1;"/>
+
   <br>
   <span style="background: linear-gradient(90deg, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;">
     Hi there, I'm Anirban 👋

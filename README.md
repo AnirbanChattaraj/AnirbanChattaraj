@@ -54,7 +54,7 @@
 
 <p align="center">
   <img src="https://c.tenor.com/VF7whiOylwIAAAAC/rocket-gif.gif" width="50"/>  
-  <b>Just your friendly, funky coder vibes!</b> 🌟
+  <b>⚡ Code, Chaos & Creativity – That’s My Vibe! 🌈</b> 🌟
 </p>
 
 ---
@@ -68,6 +68,30 @@
 
 <p align="center">
   <img src="https://c.tenor.com/VF7whiOylwIAAAAC/rocket-gif.gif" width="50"/>
+</p>
+
+## 🍥 Coding Vibes
+<p align="center">
+  <img src="https://img.shields.io/badge/💨%20Speed-Ninja%20Fast-ff6ec4?style=for-the-badge"/>
+ 
+  <img src="https://img.shields.io/badge/🗡️%20Ninjutsu-Master-7873f5?style=for-the-badge"/>
+ 
+  <img src="https://img.shields.io/badge/🌪️%20Taijutsu-Speedster-44f2e5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🧠%20Strategy-Brilliant-7873f5?style=for-the-badge"/>
+</p>
+
+<p align="center">
+ <img src="https://media.giphy.com/media/3o6Zt7pQwD9pXJvY7u/giphy.gif" width="150"/>
+</p>
+
+## 🧘‍♂️ Monk Vibes
+<p align="center">
+  <img src="https://img.shields.io/badge/💪%20Strength-Inner%20Power-ff6ec4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🧠%20Focus-Mind%20Control-44f2e5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔥%20Courage-Fearless-7873f5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌟%20Determination-Unstoppable-ff6ec4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📚%20Knowledge-Wisdom-44f2e5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💡%20Inspiration-Motivation-7873f5?style=for-the-badge"/>
 </p>
 
 

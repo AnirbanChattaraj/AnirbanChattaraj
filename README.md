@@ -41,18 +41,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Profile Summary
 <p align="center">
-  <!-- Aggregate stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AnirbanChattaraj&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnirbanChattaraj&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🌟 GitHub Total Stars
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnirbanChattaraj&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&custom_title=Total%20Stars&card_width=250"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnirbanChattaraj&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnirbanChattaraj&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnirbanChattaraj&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnirbanChattaraj&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnirbanChattaraj&theme=tokyonight"/>
 </p>
 
 ---
@@ -61,6 +56,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AnirbanChattaraj&theme=tokyonight" alt="GitHub Streak"/>
 </p>
+
 ---
 
 ## 🔗 Connect with me

@@ -37,25 +37,39 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub Profile Summary
+## 🌟 GitHub Vibes
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnirbanChattaraj&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnirbanChattaraj&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnirbanChattaraj&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnirbanChattaraj&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnirbanChattaraj&theme=tokyonight"/>
+  <img src="https://img.shields.io/badge/🖥️%20Coding%20Style-Clean%20&%20Readable-ff6ec4?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/🌈%20Creativity-High-ff6ec4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🚀%20Learning-Vast-44f2e5?style=for-the-badge"/>
+ 
+</p>
+
+<p align="center">
+  <img src="https://c.tenor.com/VF7whiOylwIAAAAC/rocket-gif.gif" width="50"/>  
+  <b>Just your friendly, funky coder vibes!</b> 🌟
 </p>
 
 ---
-
-## 🏆 GitHub Streak
+## 🏄‍♂️ Developer Energy Dashboard
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AnirbanChattaraj&theme=tokyonight" alt="GitHub Streak"/>
+ 
+  <img src="https://img.shields.io/badge/🌈%20Creativity-Explosive-44f2e5?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/🧠%20Logic-Mastermind-7873f5?style=for-the-badge"/>
 </p>
+
+<p align="center">
+  <img src="https://c.tenor.com/VF7whiOylwIAAAAC/rocket-gif.gif" width="50"/>
+</p>
+
 
 ---
 

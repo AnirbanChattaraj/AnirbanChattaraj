@@ -1,5 +1,6 @@
-# 👋 Hi, I'm Anirban Chattaraj from INDIA 
+<img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="380"/>              <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="350"/>
 
+👋 Hi, I'm Anirban Chattaraj from INDIA 
 🚀 **Aspiring Full-Stack Developer | System Design Enthusiast | DSA Explorer**  
 💡 Passionate about mastering multiple languages, frameworks, and technologies to build scalable and intelligent systems.  
 
@@ -63,7 +64,7 @@
 ## 🎯 Current Learning Path
 - Full-Stack Development (MERN & MEAN)  
 - System Design (fundamentals → advanced)  
-- Data Structures & Algorithms (FAANG-level prep)  
+- Data Structures & Algorithms   
 
 ---
 

@@ -62,7 +62,7 @@
 ---
 
 ## 🎯 Current Learning Path
-- Full-Stack Development (MERN & MEAN)  
+- Full-Stack Development (MERN & MEAN & MEVN)  
 - System Design (fundamentals → advanced)  
 - Data Structures & Algorithms   
 
